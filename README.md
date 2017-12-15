@@ -14,3 +14,4 @@ Follwoing the *thing* of *awesome lists*, here one with projects involved in mea
 |[Air Quality in Calgary](http://calgary-air.sensorup.com/)|[sensorup](https://www.sensorup.com/)|
 |[*sensors.AFRICA (planned)*](https://medium.com/code-for-africa/monitoring-air-quality-in-african-cities-through-low-cost-air-pollution-centers-84f2082c8ebd)|[Code4Africa](https://codeforafrica.org/)|
 |[Distributed Air Quality Monitoring (Using Taxis!)](https://www.hackster.io/james-puderer/distributed-air-quality-monitoring-using-taxis-69647e)|[James Puderer](https://twitter.com/jhpuderer)|
+|[Fireworks fine dust measurement](https://apeldoornindata.nl/data/chartcombined.php?id=7)|[APELDOORN IN DATA](https://apeldoornindata.nl/index.php/2017/11/18/vuurwerk-fijnstof-meten/)|
