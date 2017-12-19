@@ -7,7 +7,7 @@ Name/Link|Creators|Tech
 [luftdaten.info](http://luftdaten.info) | [OK Lab Stuttgart](https://codefor.de/stuttgart/) | [SDS011, NodeMCU ESP8266 (Wifi), DHT22](http://luftdaten.info/feinstaubsensor-bauen/)
 [openaq.org](https://openaq.org) | [Development Seed](https://developmentseed.org/) | 
 [Hindustan Times Air Quality](http://airquality.hindustantimes.com/) | [Central Pollution Control Board (CPCB)](http://cpcb.nic.in), [Hindustan Times](http://hindustantimes.com/) | 
-[Aelora](https://www.thethingsnetwork.org/article/aelora-monitoring-air-quality-with-the-things-network) | [Fokke, Richard, Jacco, Ivo of Luminis](https://arnhem.luminis.eu/talents/) | Arduino Nano, RN2483 (TTN)
+[Aelora](https://www.thethingsnetwork.org/article/aelora-monitoring-air-quality-with-the-things-network) | [Fokke, Richard, Jacco, Ivo of Luminis](https://arnhem.luminis.eu/talents/) | GP2Y1010AU0F, Arduino Nano, RN2483 (TTN)
 [*PiMaa (planned)*](http://pimaa.co.ug/) | [Outbox Hub Uganda](https://outbox.co.ug/) | 
 [Plume Air Report](https://air.plumelabs.com/) | [Plume Labs](https://plumelabs.com) | 
 [Bath Air Quality Sensor Data](https://data.bathhacked.org/Environment/-Live-Air-Quality-Sensor-Data/hqr9-djir) | [Bath: Hacked](https://www.bathhacked.org) | 
