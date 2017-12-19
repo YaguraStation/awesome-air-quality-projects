@@ -14,6 +14,5 @@ Name/Link|Creators|Tech
 [Air Quality in Calgary](http://calgary-air.sensorup.com/) | [sensorup](https://www.sensorup.com/) | 
 [*sensors.AFRICA (planned)*](https://medium.com/code-for-africa/monitoring-air-quality-in-african-cities-through-low-cost-air-pollution-centers-84f2082c8ebd)|[Code4Africa](https://codeforafrica.org/) | 
 [*PiMaa (planned)*](http://pimaa.co.ug/) | [Outbox Hub Uganda](https://outbox.co.ug/) | 
-[Weather Undergound](https://www.wunderground.com/sensors/purpleair) | [Weather Underground](https://www.wunderground.com/) | 
+[Weather Undergound](https://www.wunderground.com/sensors/purpleair) | [Weather Underground](https://www.wunderground.com/) | [PurpleAir (Wifi)](https://www.purpleair.com/?utm_source=wunderground&utm_medium=web)  
 [Hindustan Times Air Quality](http://airquality.hindustantimes.com/) | [Central Pollution Control Board (CPCB)](http://cpcb.nic.in), [Hindustan Times](http://hindustantimes.com/) | 
-[PurpleAir (Wifi)](https://www.purpleair.com/?utm_source=wunderground&utm_medium=web)
