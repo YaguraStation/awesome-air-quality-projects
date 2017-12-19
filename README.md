@@ -8,7 +8,7 @@ Name/Link|Creators|Tech
 [Fireworks fine dust measurement](https://apeldoornindata.nl/data/chartcombined.php?id=7) | [APELDOORN IN DATA](https://apeldoornindata.nl/index.php/2017/11/18/vuurwerk-fijnstof-meten/) | [GP2Y1010AU0F](https://github.com/pe1mew/TTNApeldoornDustSensor/blob/master/Hardware/Sharp%20Sensor%20-%20gp2y1010au_e.pdf), [RFM95 (TTN)](https://github.com/pe1mew/TTNApeldoornDustSensor/blob/master/BouwAvond_FijnstofSensor_091.pdf)
 [Aelora](https://www.thethingsnetwork.org/article/aelora-monitoring-air-quality-with-the-things-network) | [Fokke, Richard, Jacco, Ivo of Luminis](https://arnhem.luminis.eu/talents/) | GP2Y1010AU0F, Arduino Nano, RN2483 (TTN) 
 [Distributed Air Quality Monitoring (Using Taxis!)](https://www.hackster.io/james-puderer/distributed-air-quality-monitoring-using-taxis-69647e) | [James Puderer](https://twitter.com/jhpuderer) | Honeywell HPM, Rpi, WiFi hotspot, GPS, BME280 
-[Bath Air Quality Sensor Data](https://data.bathhacked.org/Environment/-Live-Air-Quality-Sensor-Data/hqr9-djir) | [Bath: Hacked](https://www.bathhacked.org) | 
+[Bath Air Quality Sensor Data](https://data.bathhacked.org/Environment/-Live-Air-Quality-Sensor-Data/hqr9-djir) | [Bath: Hacked](https://www.bathhacked.org) | [Bath Council](http://www.bathnes.gov.uk/services/environment/pollution/air-quality)
 [openaq.org](https://openaq.org) | [Development Seed](https://developmentseed.org/) | 
 [Plume Air Report](https://air.plumelabs.com/) | [Plume Labs](https://plumelabs.com) | 
 [Air Quality in Calgary](http://calgary-air.sensorup.com/) | [sensorup](https://www.sensorup.com/) | 
