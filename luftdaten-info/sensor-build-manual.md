@@ -1,24 +1,25 @@
 *This is an English translation of http://luftdaten.info/feinstaubsensor-bauen/*
 
-# Fine dust sensor - construction manual
-## SHOPPING LIST
+# Particulate matter sensor - construction manual
+## Shopping list
 ![particulate matter assembly kit](Feinstaub-Sensor-Bausatz-e1479558693357.jpg)
--  NodeMCU ESP8266, CPU / WLAN
-- SDS011 fine dust sensor (formerly PPD42NS)
-- DHT22, temperature & humidity (optional)
--  small cable
--  USB cable eg: flat 2m micro USB power adapter USB 
-- cable tie 
-- hose, if possible not transparent, diameter 6 mm , Length ca. 20cm (hardware store) 
-- weather protection, Marley Silent HT bend ( DN 75 87 ° )
+-  [NodeMCU ESP8266, CPU / WLAN](https://de.aliexpress.com/w/wholesale-nodemcu-v3-esp8266-ch340.html?spm=2114.010208.0.0.2zt6Ca&initiative_id=SB_20170101021508&site=deu&groupsort=1&SortType=price_asc&g=y&SearchText=nodemcu+v3+esp8266+ch340)
+- [SDS011 particulate matter sensor (formerly PPD42NS)](http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&SearchText=sds011&CatId=523)
+- [DHT22, temperature & humidity (optional)](http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&SearchText=dht22&CatId=523)
+-  [small cable](http://de.aliexpress.com/item/Free-Shipping-80pcs-dupont-cable-jumper-wire-dupont-line-female-to-female-dupont-line-20cm-1P/701588771.html)
+-  [USB cable eg: flat micro USB power adapter USB](http://de.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160828005508&SearchText=micro+usb+kabel+flach) 
+- cable ties 
+- piping, if possible not transparent, diameter 6 mm , length ca. 20cm (hardware store) 
+- weather protection, Marley Silent HT bend ( [DN 75 87 °](https://www.bauhaus.info/rohrsysteme/marley-ht-bogen-/p/13625028) )
 ## Assemble
-The assembly is designed so that everyone can join. With only 7 cords and 2 cable ties, the kit becomes a measuring station. Really easy!
-## MEASURE FINE DUST
+The assembly is designed in a way that everyone can join. With only 7 cords and 2 cable ties, the kit becomes a measuring station. Really easy!
 
-# IMPORT FIRMWARE
+## Measure particulate matter
+
+# Import firmware
 Here the firmware is played on the NodeMCU
 
-## INTRODUCTORY WORDS
+## Introductory words
 You do not have to program, do not worry!
 
 We have already finished programming the firmware. It is only dubbed and installed on the NodeMCU (ESP8288). This is also for computer laymen to do.
@@ -26,7 +27,7 @@ If you need help, just come by our appointments:
 
 Every  2nd Tuesday of the month , 7 pm,  shackspace , Ulmer Str. 255, Stuttgart Wangen
 
-## INSTALL USB2SERIAL DRIVER
+## Install USB2SERIAL driver
 To communicate with the ESP8266, you need usb2serial drivers. The chipset is normally CH341 for NocdeMCUs: driver side of the manufacturer (chinese).
 
 * Linux: no installation required, chip should be supported directly (with dmesg verifiable)
@@ -34,7 +35,7 @@ To communicate with the ESP8266, you need usb2serial drivers. The chipset is nor
 * Windows: TBA (possibly manufacturer driver try, so)
 * Raspberry Pi: https://github.com/aperepel/raspberrypi-ch340-driver
 
-## IMPORT FIRMWARE
+## Import firmware
 Instructions for copying
 
 Who does not dare, please look in the FAQ's . There is a video tutorial.
