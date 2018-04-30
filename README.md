@@ -5,6 +5,7 @@ Following the *thing* of *awesome lists*, here one with projects involved in mea
 Name/Link|Creators|Tech
 --- | ---| ---
 [luftdaten.info](http://luftdaten.info) | [OK Lab Stuttgart](https://codefor.de/stuttgart/) | [SDS011, NodeMCU ESP8266 (Wifi), DHT22](http://luftdaten.info/feinstaubsensor-bauen/)
+[TTN "luftrohr" build](https://github.com/iot-basel/ttn-basel-feinstaub/wiki)|[The Things Network Basel](https://www.meetup.com/IoT-Basel/) | SDS011, ESP32, RFM95, BME 280
 [Fireworks fine dust measurement](https://apeldoornindata.nl/data/chartcombined.php?id=7) | [APELDOORN IN DATA](https://apeldoornindata.nl/index.php/2017/11/18/vuurwerk-fijnstof-meten/) | [GP2Y1010AU0F](https://github.com/pe1mew/TTNApeldoornDustSensor/blob/master/Hardware/Sharp%20Sensor%20-%20gp2y1010au_e.pdf), [RFM95 (TTN)](https://github.com/pe1mew/TTNApeldoornDustSensor/blob/master/BouwAvond_FijnstofSensor_091.pdf)
 [Aelora](https://www.thethingsnetwork.org/article/aelora-monitoring-air-quality-with-the-things-network) | [Fokke, Richard, Jacco, Ivo of Luminis](https://arnhem.luminis.eu/talents/) | GP2Y1010AU0F, Arduino Nano, RN2483 (TTN) 
 [Distributed Air Quality Monitoring (Using Taxis!)](https://www.hackster.io/james-puderer/distributed-air-quality-monitoring-using-taxis-69647e) | [James Puderer](https://twitter.com/jhpuderer) | Honeywell HPM, Rpi, WiFi hotspot, GPS, BME280 
